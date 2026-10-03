@@ -1,13 +1,13 @@
 {
-  "version": "3.0.0-alpha.93",
+  "version": "3.0.0-alpha.94",
   "description": "The Velora terminal app \u2014 agents, missions, and automations from your shell.",
   "homepage": "https://runvelora.app",
   "license": "Unlicense",
   "notes": "Unsigned build: SmartScreen may confirm on first run. Then 'velora login' and 'velora' to start.",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Mehxeo/Velora/releases/download/v3.0.0-alpha.93/velora-cli-windows-x64.zip",
-      "hash": "c8e9835b57712d36a7970c2d9d2104a26edf03116e8065325f2f1ffbaf6b9954"
+      "url": "https://github.com/Mehxeo/Velora/releases/download/v3.0.0-alpha.94/velora-cli-windows-x64.zip",
+      "hash": "4bbba70db50e899cd13fa7210640cc1e1c1c59f6e6f2ee8a68cd1ab97256cd2e"
     }
   },
   "bin": [
